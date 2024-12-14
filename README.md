@@ -1,4 +1,4 @@
-[![MastHead](Cover.jpg)](https://portfolio-srishtipriya.onrender.com)
+[![MastHead](Cover.jpg)](https://my-portfolio-7h9u.onrender.com)
 
 # What’s up, friend?
 
@@ -12,7 +12,7 @@ My technical expertise encompasses a broad spectrum, including DSA, SparkSQL, st
 
 My core focus lies in devising scalable big data solutions, conducting comprehensive exploratory data analysis (EDA), and uncovering actionable insights through data discovery. I warmly invite you to explore my portfolio and provide your valuable feedback on my projects.<br><br>
 
-## My [Portfolio](https://portfolio-srishtipriya.onrender.com) and Skills
+## My [Portfolio](https://my-portfolio-7h9u.onrender.com) and Skills
 
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
